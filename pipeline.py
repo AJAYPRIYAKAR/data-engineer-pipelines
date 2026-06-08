@@ -1,3 +1,5 @@
+from sample_data import data
+
 def pipeline(data):
     result = []
     total = 0
@@ -28,3 +30,8 @@ def pipeline(data):
         total += salary
 
     return {"data": result, "total": total}
+
+if __name__ == "__main__":
+    output = pipeline(data)
+    print(output)
+
