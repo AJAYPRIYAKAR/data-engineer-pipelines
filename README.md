@@ -20,3 +20,8 @@ A Python pipeline processes the raw input by:
 - High salary employee count
 
 This project demonstrates how raw data can be transformed into meaningful insights using structured pipeline design.
+
+## Updates
+Improved pipeline structure by separating validation logic.
+
+
