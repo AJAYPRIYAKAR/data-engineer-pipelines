@@ -24,4 +24,22 @@ This project demonstrates how raw data can be transformed into meaningful insigh
 ## Updates
 Improved pipeline structure by separating validation logic.
 
+---
+
+## Enhanced Pipeline Design
+
+The project has been improved to handle more complex and realistic data scenarios.
+
+### Features
+- Handles complex and messy input data safely
+- Applies validation for data accuracy
+- Implements cross-field validation using business rules
+- Supports multi-step transformations (level, bonus, experience category)
+- Generates multiple aggregated metrics for analysis
+
+### Highlights
+- End-to-end pipeline implementation
+- Clean and modular structure
+- Real-world data engineering approach
+
 
